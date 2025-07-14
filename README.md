@@ -1,6 +1,5 @@
-# Hospital-Stay-Prediction
+# PRCP-1022-HospitalStayPred, a machine learning model to predict the length of stay (in days) of a patient entering the Hospital, given various factors about their stay.
 
-PRCP-1022-HospitalStayPred
 
 Problem Statement
 
